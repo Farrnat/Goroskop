@@ -49,72 +49,793 @@ namespace ConsoleApp2
 
                     if (rat.Contains(year))
                     {
-                        Console.WriteLine("Вы родились в год крысы и ваш знак зодиака овен");
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
+                        Console.WriteLine("");
                         flag = true;
                     }
 
                     else if (bull.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год быка");
                         flag = true;
                     }
 
                     else if (tiger.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год тигра");
                         flag = true;
                     }
 
                     else if (cat.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год кошки");
                         flag = true;
                     }
 
                     else if (dragon.Contains(year))
                     {
+
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год дракона");
                         flag = true;
                     }
 
                     else if (snake.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год змеи");
                         flag = true;
                     }
 
                     else if (horse.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год лошади");
                         flag = true;
                     }
 
                     else if (goat.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год козы");
                         flag = true;
                     }
 
                     else if (monkey.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год обезьяны");
                         flag = true;
                     }
 
                     else if (chicken.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год петуха");
                         flag = true;
                     }
 
                     else if (dog.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год собаки");
                         flag = true;
                     }
 
                     else if (hog.Contains(year))
                     {
+                        if(oven.Contains(dm))
+                        {
+
+                        }
+                        
+                        else if(telets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(bliznetsi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(rak.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(lev.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(deva.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vesi.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(scorpion.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(strelets.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(kozerog.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(vodoley.Contains(dm))
+                        {
+                        
+                        }
+
+                        else if(ribi.Contains(dm))
+                        {
+                        
+                        }
+
                         Console.WriteLine("Вы родились в год кабана");
                         flag = true;
                     }
